@@ -2,6 +2,6 @@
 
 做自己，为自由。
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoronaZero)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CoronaZero)
 
 个人博客:[https://corona.dreamweaver.top/](https://corona.dreamweaver.top/)
